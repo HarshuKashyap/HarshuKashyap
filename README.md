@@ -139,7 +139,7 @@ Here are some ideas to get you started:
 
 ### ⚡ Quote of the Day
 
-> “Cybersecurity isn’t just a skill, it’s a mindset of resilience and curiosity.” — Harshu
+> “Cybersecurity isn’t just a skill, it’s a mindset of resilience and curiosity.” — Harshit Raj
 
 ---
 

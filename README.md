@@ -78,9 +78,13 @@ Here are some ideas to get you started:
 
 | 💻 Project | 🔎 Description | 🛠 Tech Used |
 |-----------|----------------|-------------|
-| 🔐 [SSH Log Analyzer](https://github.com/HarshuKashyap/ssh-log-analyzer) | Detects brute-force attempts in SSH logs | Python, Regex |
-| 🔍 [USB File Tracker](https://github.com/HarshuKashyap/usb-tracker) | Tracks USB file events for forensics | Python, OS, Logging |
-
+| [SSH Log Analyzer](https://github.com/HarshuKashyap/ssh-log-analyzer) | Detects brute-force attempts in SSH logs | Python, Regex |
+| [USB File Tracker](https://github.com/HarshuKashyap/usb-tracker) | Tracks USB file events for forensics | Python, OS, Logging |
+| [`network-packet-sniffer`](https://github.com/HarshuKashyap/network-packet-sniffer) | Real-time packet sniffer capturing and analyzing raw IP/TCP/UDP packets for security audits. | `Python`, `Scapy`, `Socket` |
+| [`gender-classification`](https://github.com/HarshuKashyap/gender-classification) | ML model classifying gender using voice frequency and pitch features. | `Python`, `Scikit-learn`, `Pandas` |
+| [`income-prediction-model`](https://github.com/HarshuKashyap/income-prediction-model) | Predicts user income class using logistic regression and decision trees. | `Python`, `Pandas`, `Matplotlib` |
+| [`contact_book_project`](https://github.com/HarshuKashyap/contact_book_project) | CLI-based contact manager with features like search, add, update, and delete. | `Python`, `File Handling` |
+| [`task-manager`](https://github.com/HarshuKashyap/task-manager) | Lightweight task manager with GUI for creating, updating, and deleting tasks. | `Python`, `Tkinter` |
 ---
 
 ### 📫 Connect with Me

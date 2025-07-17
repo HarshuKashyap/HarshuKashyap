@@ -54,7 +54,11 @@ Here are some ideas to get you started:
 
 - ✅ `USB File Activity Tracker - Cyber Forensics`
 - ✅ `SSH Log Analyzer for Suspicious IPs`
-
+- ✅ 'network-packet-sniffer - Packets for security audits' 
+- ✅ 'gender-classification - voice frequency and pitch features'
+- ✅ 'income-prediction-model - logistic regression and decision trees' 
+- ✅ 'contact_book_project -  contact manager with features like search,  add, update, and delete'
+- ✅ 'task-manager - GUI for creating, updating, and deleting tasks'
 ---
 
 ### 🔥 GitHub Stats

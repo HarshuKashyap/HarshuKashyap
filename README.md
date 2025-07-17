@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 <p align="left">
 
   <!-- Nmap -->
-  <a href="https://nmap.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/AwesomeCyberSec/logos/main/nmap.png" alt="Nmap" width="50" height="50"/>
+<a href="https://nmap.org/" target="_blank">
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="50" height="50"/>
 </a>
 
   <!-- Wireshark -->

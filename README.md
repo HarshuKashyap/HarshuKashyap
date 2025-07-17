@@ -51,14 +51,44 @@ Here are some ideas to get you started:
 ## 🛡️ Cybersecurity & Forensics Tools
 
 <p align="left">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-nmap-a-free-and-open-source-network-scanner-logo-color-tal-revivo.png" alt="Nmap" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/96/wireshark.png" alt="Wireshark" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burp-suite/burp-suite-original.svg" alt="Burp Suite" width="40" height="40"/>
-  <img src="https://forensicxlab.com/wp-content/uploads/2021/07/autopsy-logo.png" alt="Autopsy" width="40" height="40"/>
-  <img src="https://i.ibb.co/tCHZv0r/ftk-imager.png" alt="FTK Imager" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/8f/Splunk_logo.svg" alt="Splunk" width="80" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
+
+  <!-- Nmap -->
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" alt="Nmap" width="50" height="50"/>
+  </a>
+
+  <!-- Wireshark -->
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Wireshark_icon.svg" alt="Wireshark" width="50" height="50"/>
+  </a>
+
+  <!-- Burp Suite -->
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://raw.githubusercontent.com/mishakorzik/iconhub/main/icons/burp-suite.svg" alt="Burp Suite" width="50" height="50"/>
+  </a>
+
+  <!-- Autopsy -->
+  <a href="https://www.sleuthkit.org/autopsy/" target="_blank">
+    <img src="https://forensicxlab.com/wp-content/uploads/2021/07/autopsy-logo.png" alt="Autopsy" width="50" height="50"/>
+  </a>
+
+  <!-- FTK Imager -->
+  <a href="https://accessdata.com/product-download/ftk-imager-version-4-5" target="_blank">
+    <img src="https://i.ibb.co/tCHZv0r/ftk-imager.png" alt="FTK Imager" width="50" height="50"/>
+  </a>
+
+  <!-- Splunk -->
+  <a href="https://www.splunk.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/8/8f/Splunk_logo.svg" alt="Splunk" width="80"/>
+  </a>
+
+  <!-- Kali Linux -->
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="50" height="50"/>
+  </a>
+
 </p>
+
 
 ---
 

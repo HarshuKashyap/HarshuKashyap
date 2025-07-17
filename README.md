@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 ---
 
 ### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **AI-Powered Iron Man JARVIS Assistant (MAM AI)**
 - 🌱 I’m currently learning **Cyber Forensics, SOC Analysis, and Secure AI**
 - 🛡️ Passionate about **Cybersecurity, Python Automation, and Digital Privacy**
 - 📝 I regularly write on [GitHub Projects](https://github.com/HarshuKashyap?tab=repositories)

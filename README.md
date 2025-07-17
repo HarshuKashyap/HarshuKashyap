@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 
   <!-- Nmap -->
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" alt="Nmap" width="50" height="50"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/AwesomeCyberSec/logos/main/nmap.png" alt="Nmap" width="50" height="50"/>
+</a>
 
   <!-- Wireshark -->
   <a href="https://www.wireshark.org/" target="_blank">

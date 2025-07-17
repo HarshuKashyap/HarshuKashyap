@@ -51,28 +51,36 @@ Here are some ideas to get you started:
 ## 🛡️ Cybersecurity & Forensics Tools
 
 <p align="left">
-  <!-- Nmap -->
-  [![Nmap](https://img.shields.io/badge/Nmap-005F87?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
-  
-  <!-- Wireshark -->
-  [![Wireshark](https://img.shields.io/badge/Wireshark-086495?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 
-  <!-- Burp Suite -->
-  [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nmap-005F87?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+  </a>
 
-  <!-- Autopsy -->
-  [![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=autopsy&logoColor=white)](https://www.sleuthkit.org/autopsy/)
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Wireshark-086495?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  </a>
 
-  <!-- FTK Imager -->
-  [![FTK Imager](https://img.shields.io/badge/FTK_Imager-343434?style=for-the-badge)](https://accessdata.com/product-download/ftk-imager-version-4-5)
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  </a>
 
-  <!-- Splunk -->
-  [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
+  <a href="https://www.sleuthkit.org/autopsy/" target="_blank">
+    <img src="https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=autopsy&logoColor=white" alt="Autopsy"/>
+  </a>
 
-  <!-- Kali Linux -->
-  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+  <a href="https://accessdata.com/product-download/ftk-imager-version-4-5" target="_blank">
+    <img src="https://img.shields.io/badge/FTK_Imager-555555?style=for-the-badge" alt="FTK Imager"/>
+  </a>
+
+  <a href="https://www.splunk.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+  </a>
+
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  </a>
+
 </p>
-
 
 ---
 

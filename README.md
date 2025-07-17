@@ -72,7 +72,8 @@ Here are some ideas to get you started:
 
 ## 🧭 Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/harshit-raj-31b3a228a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=linkedin&style=social)](https://www.linkedin.com/in/harshit-raj-31b3a228a/)
+
 
 ---
 

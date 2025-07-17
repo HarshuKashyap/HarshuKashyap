@@ -72,9 +72,7 @@ Here are some ideas to get you started:
 
 ## 🧭 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github)](https://yourwebsite.com)
+[![LinkedIn](https://www.linkedin.com/in/harshit-raj-31b3a228a/)
 
 ---
 

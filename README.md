@@ -51,45 +51,27 @@ Here are some ideas to get you started:
 ## 🛡️ Cybersecurity & Forensics Tools
 
 <p align="left">
-
   <!-- Nmap -->
-<a href="https://nmap.org/" target="_blank">
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="50" height="50"/>
-</a>
+  [![Nmap](https://img.shields.io/badge/Nmap-005F87?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
 
   <!-- Wireshark -->
-  <a href="https://www.wireshark.org/" target="_blank">
-  <img src="https://www.wireshark.org/assets/images/wireshark-logo.png" alt="Wireshark" width="100"/>
-</a>
-
+  [![Wireshark](https://img.shields.io/badge/Wireshark-086495?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 
   <!-- Burp Suite -->
-  <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/techgaun/awesome-infosec/icons/burp-suite.png" alt="Burp Suite" width="50" height="50"/>
-  </a>
+  [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 
   <!-- Autopsy -->
-  <a href="https://www.sleuthkit.org/autopsy/" target="_blank">
-    <img src="https://raw.githubusercontent.com/AwesomeCyberSec/logos/main/autopsy.png" alt="Autopsy" width="50" height="50"/>
-  </a>
+  [![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=autopsy&logoColor=white)](https://www.sleuthkit.org/autopsy/)
 
   <!-- FTK Imager -->
-  <a href="https://accessdata.com/product-download/ftk-imager-version-4-5" target="_blank">
-    <img src="https://raw.githubusercontent.com/AwesomeCyberSec/logos/main/ftk-imager.png" alt="FTK Imager" width="50" height="50"/>
-  </a>
+  [![FTK Imager](https://img.shields.io/badge/FTK_Imager-343434?style=for-the-badge)](https://accessdata.com/product-download/ftk-imager-version-4-5)
 
   <!-- Splunk -->
-  <a href="https://www.splunk.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" alt="Splunk" width="50" height="50"/>
-  </a>
+  [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
 
   <!-- Kali Linux -->
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="50" height="50"/>
-  </a>
-
+  [![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 </p>
-
 
 
 ---

@@ -34,20 +34,42 @@ Here are some ideas to get you started:
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <!-- Nmap --> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap_Logo.svg" width="40" height="40" alt="Nmap"/> <!-- Wireshark --> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Wireshark_icon.svg" width="40" height="40" alt="Wireshark"/> <!-- Burp Suite --> <img src="https://avatars.githubusercontent.com/u/107327183?s=280&v=4" width="40" height="40" alt="Burp Suite"/> <!-- Autopsy --> <img src="https://www.sleuthkit.org/autopsy/images/autopsy-logo.png" width="40" height="40" alt="Autopsy"/> <!-- FTK Imager --> <img src="https://www.exterro.com/hubfs/FTK%20Imager.png" width="40" height="40" alt="FTK Imager"/> <!-- Splunk --> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Splunk_Logo.svg" width="40" height="40" alt="Splunk"/> <!-- Kali Linux --> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40" alt="Kali Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
-  
 
+## 🛡️ Cybersecurity & Forensics Tools
+
+<p align="left">
+  <!-- Nmap -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap_Logo.svg" alt="Nmap" width="40" height="40"/>
+  
+  <!-- Wireshark -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Wireshark_icon.svg" alt="Wireshark" width="40" height="40"/>
+  
+  <!-- Burp Suite -->
+  <img src="https://raw.githubusercontent.com/SimoKarpin/BurpSuite-Pro-Installer/master/burp-logo.png" alt="Burp Suite" width="40" height="40"/>
+  
+  <!-- Autopsy -->
+  <img src="https://www.sleuthkit.org/autopsy/images/autopsy-logo.png" alt="Autopsy" width="40" height="40"/>
+  
+  <!-- FTK Imager -->
+  <img src="https://www.exterro.com/hubfs/FTK%20Imager.png" alt="FTK Imager" width="40" height="40"/>
+  
+  <!-- Splunk -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Splunk_Logo.svg" alt="Splunk" width="40" height="40"/>
+  
+  <!-- Kali Linux -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
+</p>
 
 ---
 

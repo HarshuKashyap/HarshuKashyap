@@ -44,14 +44,9 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img src="https://raw.githubusercontent.com/Srinivas11789/srinivas11789/main/assets/nmap-icon.svg" width="40" height="40" title="Nmap"/>
-  <img src="https://raw.githubusercontent.com/Azkar001/devicon/master/icons/wireshark/wireshark-original.svg" width="40" height="40" title="Wireshark"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burp_Suite_logo.svg/768px-Burp_Suite_logo.svg.png" width="40" height="40" title="Burp Suite"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Autopsy_logo.png" width="40" height="40" title="Autopsy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/FTK_logo.png" width="40" height="40" title="FTK Imager"/>
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="40" height="40" title="Kali Linux"/>
-  <img src="https://raw.githubusercontent.com/secureblue/siem-icons/main/icons/splunk.png" width="40" height="40" title="Splunk SIEM"/> 
+  <!-- Nmap --> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap_Logo.svg" width="40" height="40" alt="Nmap"/> <!-- Wireshark --> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Wireshark_icon.svg" width="40" height="40" alt="Wireshark"/> <!-- Burp Suite --> <img src="https://avatars.githubusercontent.com/u/107327183?s=280&v=4" width="40" height="40" alt="Burp Suite"/> <!-- Autopsy --> <img src="https://www.sleuthkit.org/autopsy/images/autopsy-logo.png" width="40" height="40" alt="Autopsy"/> <!-- FTK Imager --> <img src="https://www.exterro.com/hubfs/FTK%20Imager.png" width="40" height="40" alt="FTK Imager"/> <!-- Splunk --> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Splunk_Logo.svg" width="40" height="40" alt="Splunk"/> <!-- Kali Linux --> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40" height="40" alt="Kali Linux"/>
 </p>
+  
 
 
 ---

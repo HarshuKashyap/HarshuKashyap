@@ -59,8 +59,9 @@ Here are some ideas to get you started:
 
   <!-- Wireshark -->
   <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Wireshark_icon.svg" alt="Wireshark" width="50" height="50"/>
-  </a>
+  <img src="https://www.wireshark.org/assets/images/wireshark-logo.png" alt="Wireshark" width="100"/>
+</a>
+
 
   <!-- Burp Suite -->
   <a href="https://portswigger.net/burp" target="_blank">

@@ -46,28 +46,17 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
+---
+
 ## 🛡️ Cybersecurity & Forensics Tools
 
 <p align="left">
-  <!-- Nmap -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap_Logo.svg" alt="Nmap" width="40" height="40"/>
-  
-  <!-- Wireshark -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Wireshark_icon.svg" alt="Wireshark" width="40" height="40"/>
-  
-  <!-- Burp Suite -->
-  <img src="https://raw.githubusercontent.com/SimoKarpin/BurpSuite-Pro-Installer/master/burp-logo.png" alt="Burp Suite" width="40" height="40"/>
-  
-  <!-- Autopsy -->
-  <img src="https://www.sleuthkit.org/autopsy/images/autopsy-logo.png" alt="Autopsy" width="40" height="40"/>
-  
-  <!-- FTK Imager -->
-  <img src="https://www.exterro.com/hubfs/FTK%20Imager.png" alt="FTK Imager" width="40" height="40"/>
-  
-  <!-- Splunk -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Splunk_Logo.svg" alt="Splunk" width="40" height="40"/>
-  
-  <!-- Kali Linux -->
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-nmap-a-free-and-open-source-network-scanner-logo-color-tal-revivo.png" alt="Nmap" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/96/wireshark.png" alt="Wireshark" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/burp-suite/burp-suite-original.svg" alt="Burp Suite" width="40" height="40"/>
+  <img src="https://forensicxlab.com/wp-content/uploads/2021/07/autopsy-logo.png" alt="Autopsy" width="40" height="40"/>
+  <img src="https://i.ibb.co/tCHZv0r/ftk-imager.png" alt="FTK Imager" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/8/8f/Splunk_logo.svg" alt="Splunk" width="80" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
 </p>
 

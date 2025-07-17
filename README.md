@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
   <img src="https://raw.githubusercontent.com/Srinivas11789/srinivas11789/main/assets/nmap-icon.svg" width="40" height="40" title="Nmap"/>
-  <img    src="https://raw.githubusercontent.com/Azkar001/devicon/master/icons/wireshark/wireshark-original.svg" width="40" height="40" title="Wireshark"/> 
+  <img src="https://raw.githubusercontent.com/Azkar001/devicon/master/icons/wireshark/wireshark-original.svg" width="40" height="40" title="Wireshark"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Burp_Suite_logo.svg/768px-Burp_Suite_logo.svg.png" width="40" height="40" title="Burp Suite"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Autopsy_logo.png" width="40" height="40" title="Autopsy"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/FTK_logo.png" width="40" height="40" title="FTK Imager"/>

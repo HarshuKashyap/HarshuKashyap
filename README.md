@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
   <!-- Nmap -->
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" alt="Nmap" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Nmap-logo.svg" alt="Nmap" width="50" height="50"/>
   </a>
 
   <!-- Wireshark -->
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
   <!-- Splunk -->
   <a href="https://www.splunk.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/8/8f/Splunk_logo.svg" alt="Splunk" width="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Splunk_Logo.svg" alt="Splunk" width="80"/>
   </a>
 
   <!-- Kali Linux -->
@@ -88,6 +88,7 @@ Here are some ideas to get you started:
   </a>
 
 </p>
+
 
 
 ---

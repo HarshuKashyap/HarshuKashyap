@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
   <!-- Nmap -->
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Nmap-logo.svg" alt="Nmap" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" alt="Nmap" width="50" height="50"/>
   </a>
 
   <!-- Wireshark -->
@@ -64,22 +64,22 @@ Here are some ideas to get you started:
 
   <!-- Burp Suite -->
   <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://raw.githubusercontent.com/mishakorzik/iconhub/main/icons/burp-suite.svg" alt="Burp Suite" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/techgaun/awesome-infosec/icons/burp-suite.png" alt="Burp Suite" width="50" height="50"/>
   </a>
 
   <!-- Autopsy -->
   <a href="https://www.sleuthkit.org/autopsy/" target="_blank">
-    <img src="https://forensicxlab.com/wp-content/uploads/2021/07/autopsy-logo.png" alt="Autopsy" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/AwesomeCyberSec/logos/main/autopsy.png" alt="Autopsy" width="50" height="50"/>
   </a>
 
   <!-- FTK Imager -->
   <a href="https://accessdata.com/product-download/ftk-imager-version-4-5" target="_blank">
-    <img src="https://i.ibb.co/tCHZv0r/ftk-imager.png" alt="FTK Imager" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/AwesomeCyberSec/logos/main/ftk-imager.png" alt="FTK Imager" width="50" height="50"/>
   </a>
 
   <!-- Splunk -->
   <a href="https://www.splunk.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Splunk_Logo.svg" alt="Splunk" width="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" alt="Splunk" width="50" height="50"/>
   </a>
 
   <!-- Kali Linux -->
